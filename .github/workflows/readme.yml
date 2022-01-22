@@ -1,4 +1,4 @@
-name: Push docker repository descriptions
+name: Push README
 
 on:
   push:

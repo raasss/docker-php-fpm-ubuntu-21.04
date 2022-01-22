@@ -1,4 +1,4 @@
-# Docker Image for PHP-FPM on Ubuntu 21.04 (Focal Fossa)
+# Docker Image for PHP-FPM on Ubuntu 21.04 (Hirsute Hippo)
 
 **Maintained by: [raasss](https://github.com/raasss/)**
 

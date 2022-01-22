@@ -1,6 +1,4 @@
-# Quick reference
-
--	**Maintained by**: [raasss](https://github.com/raasss/)
+**Maintained by**: [raasss](https://github.com/raasss/)
 
 # Quick reference
 

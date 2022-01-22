@@ -63,5 +63,7 @@ RUN set -e; \
     chmod -v 0644 /etc/php/7.4/fpm/php.ini; \
     chown -v root:root /etc/php/7.4/fpm/php.ini
 
+WORKDIR /var/www/html/
+
 ENTRYPOINT ["tini", "--"]
 CMD ["/docker-entrypoint.sh"]

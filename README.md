@@ -1,12 +1,10 @@
-# Docker Images for PHP-FPM on Ubuntu 21.04 (Focal Fossa)
+# Docker Image for PHP-FPM on Ubuntu 21.04 (Focal Fossa)
 
 **Maintained by: [raasss](https://github.com/raasss/)**
 
-## FAQ
-
 ### How do I use this docker image?
 
-See [the Docker Hub page](https://hub.docker.com/repository/docker/raasss/php-fpm-ubuntu-21.04/general) for the full README on how to use this container image.
+See [the Docker Hub page](https://hub.docker.com/repository/docker/raasss/php-fpm-ubuntu-21.04/general) or [GitHub page](https://github.com/raasss/docker-php-fpm-ubuntu-21.04/blob/main/README.docker.io.md) for the full README on how to use this container image.
 
 ## Reporting a Bug / Feature Request
 
